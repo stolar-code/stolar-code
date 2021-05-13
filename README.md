@@ -2,8 +2,6 @@
 
 Here is my personal [website][personalWebsite], check it out if you are interested!
 
-## I'm a high school student and front-end developer 😎
-
 - 💻 I’m currently learning React
 - 🥅 2021 Goals: Start learning Typescript, Gatsby, and to play guitar 🎸
 - ⚡ Fun fact: I always listen to lo-fi playlists during coding 🎶
