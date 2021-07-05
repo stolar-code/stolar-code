@@ -2,7 +2,7 @@
 
 Here is my personal [website][personalWebsite], check it out if you are interested!
 
-- 💻 I’m currently learning Typescript
+- 💻 I’m currently learning TypeScript
 - 🥅 2021 Goals: Start learning unit testing
 - ⚡ Fun fact: I always listen to lo-fi playlists during coding 🎶
 - 📧 You can reach me on: 
